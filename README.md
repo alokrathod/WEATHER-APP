@@ -1,6 +1,8 @@
 # WEATHER-APP
 Repository contains the real time Weather website using HTML, CSS and JAVASCRIPT
 
+You can visit the site here - https://alokrathod.github.io/WEATHER-APP/
+
 This Weather App is a simple, user-friendly web application that allows users to search for weather conditions and forecasts for any city around the world. The app also provides the option to get weather details based on the user's current location.
 
 Features:
